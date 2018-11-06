@@ -1,4 +1,4 @@
-# mean_shift
+# meanShift()
 Figure out unsupervised learning with meanShift - Basic for machine learning and AI.  
 
 Link to lecture notes. https://github.com/datsoftlyngby/dat4sem2018fall-python/blob/master/lecture_notes/21-MeanShift.ipynb  

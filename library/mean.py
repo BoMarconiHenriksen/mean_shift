@@ -1,4 +1,3 @@
-# %matplotlib notebook
 from itertools import cycle
 import matplotlib.pyplot as plt
 from sklearn.cluster import MeanShift, estimate_bandwidth
